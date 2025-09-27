@@ -307,7 +307,7 @@ class Lexer:
 def main():
     """Função principal para demonstrar o uso do analisador léxico"""
     print("=== ANALISADOR LÉXICO SIMPLES ===")
-    print("Este programa demonstra como funciona um analisador léxico básico.\n")
+    print("Este programa demonstra como funciona um analisador léxico.\n")
     
     # Exemplos de código para análise
     exemplos = [
@@ -387,7 +387,7 @@ def main():
         except EOFError:
             break
     
-    print("\nObrigado por usar o analisador léxico!")
+    print("\nFim do analisador léxico!!")
 
 
 if __name__ == "__main__":
